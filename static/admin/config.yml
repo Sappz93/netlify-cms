@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: Sappz93/netlify-cms
+  # name: test-repo
 
 media_folder: static/assets
 public_folder: assets
