@@ -39,5 +39,3 @@ There are a couple of frameworks which allow us to build UWAs quickly.
 ## [](https://github.com/akhila-ariyachandra/akhilaariyachandra.com/blob/master/content/posts/client-side-rendering-vs-server-side-rendering/index.mdx#conclusion)Conclusion
 
 I hope you found this useful on learning about Server Side Rendering and Client Side Rendering.😊
-
-<!--EndFragment-->
